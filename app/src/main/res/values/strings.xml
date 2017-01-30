@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tennis Score Keeper</string>
+    <string name="number_of_sets">Number of Sets:</string>
+    <string name="set_3">3 sets</string>
+    <string name="set_5">5 sets</string>
+    <string name="doubleZeros">00</string>
+    <string name="zero">0</string>
+    <string name="games">Games</string>
+    <string name="sets">Sets</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="score_up">Score +</string>
+    <string name="fault">Fault</string>
+    <string name="start">Start</string>
+    <string name="deuce_point">Ad</string>
+    <string name="reset">Reset</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#28446c</color>
+    <color name="colorAccent">#28446c</color>
+
+
+
+<!-- Button Colors-->
+    <color name="defaultButtonColor">#28446c</color>
+    <color name="pressedFaultButtonColor">#305181</color>
+    <color name="disactiveButtonColor">#ab28446c</color>
+<!--              -->
+
+
+    <color name="white">#ffffff</color>
+</resources>
